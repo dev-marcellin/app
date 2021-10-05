@@ -1,0 +1,59 @@
+.image{
+    background-image: url('../img/img2.jpg');
+    background-position: center;
+     width: 500px;
+    height: 500px;
+}
+
+.form-con{
+  
+    margin: auto;
+    width: 500px;
+   
+    height: 500px;
+    
+  
+   
+    /*padding-bottom: 100px;
+    margin-left: auto;
+    margin-top: initial;
+    text-align: center;*/
+}
+
+.con{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.orangeColor{
+    background-color: #8404be;
+}
+.user{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.bar{
+    color: rgb(180, 194, 206);
+}
+.logout{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.backAdd{
+   background-image: url("../img/add.jpg"); 
+   width: 350px;
+   height: 250px;
+}
+
+.add{
+    color: antiquewhite;
+}
+
+.upload{
+    width: 350px;
+   height: 250px; 
+}
